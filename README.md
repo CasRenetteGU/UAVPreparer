@@ -1,2 +1,0 @@
-# UAVPreparer
-My First Repository

@@ -3,30 +3,30 @@
 # This file should be included when you package your plugin.# Mandatory items:
 
 [general]
-name=UAV Preparer
+name=UAV Prepare for Processing
 qgisMinimumVersion=3.0
-description=This plugin examines height properties on a DSM
+description=Examine ehight of DSM
 version=0.1
 author=Cas Renette
-email=cas.renette@gu.gvc.se
+email=cas.renette@gvc.gu.se
 
-about=This plugin examines height properties on a DSM
+about=Examine DSM height
 
-tracker=https://github.com/CasRenetteGU/UAVPreparer/issues
-repository=https://github.com/CasRenetteGU/UAVPreparer
+tracker=http://bugs
+repository=http://repo
 # End of mandatory metadata
 
 # Recommended items:
 
-hasProcessingProvider=no
+hasProcessingProvider=yes
 # Uncomment the following line and add your changelog:
 # changelog=
 
 # Tags are comma separated with spaces allowed
 tags=python
 
-homepage=https://github.com/CasRenetteGU/UAVPreparer
-category=Plugins
+homepage=http://homepage
+category=Analysis
 icon=icon.png
 # experimental flag
 experimental=True
